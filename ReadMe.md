@@ -49,6 +49,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/KodakSec/KodakSec/workflows/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/KodakSec/KodakSec/workflows/snake.svg](https://raw.githubusercontent.com/KodakSec/kodaksec/refs/heads/main/snake.yml)" alt="Snake animation" />
 
 ###
