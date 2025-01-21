@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/195818981?v=4"  />
+<img align="right" height="150" src="https://i.giphy.com/l41lQsh0iOvne52yA.webp"  />
 
 ###
 
